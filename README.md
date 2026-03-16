@@ -27,13 +27,6 @@ Tools
 - Responsive user interface
 - REST API integration
 
-## Project Structure
-
-Frontend Repository  
-https://github.com/yourusername/frontend-repo
-
-Backend Repository  
-https://github.com/yourusername/backend-repo
 
 ## Installation
 
